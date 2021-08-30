@@ -1,7 +1,7 @@
 ### Bem vindo, me chamo Arthur Mesquita 🤙
 
 - 📚 Estudando atualmente Desenvolvimento Web Java, mas tenho interesse em diversos tópicos relacionados a área.
-- 💡 Buscando trocas de conhecimento.
+- 💡 Buscando trocas de conhecimentos.
 - 📫 Contate-me no meu email:mesquita.arthur001@gmail.com
 
 
