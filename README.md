@@ -1,4 +1,4 @@
-### Bem vindo, me chamo Arthur Mesquita 🤙
+### Bem vindo, me chamo Arthur Mesquita 
 
 - 📚 Estudando atualmente Desenvolvimento Web Java, mas tenho interesse em diversos tópicos relacionados a área.
 - 💡 Buscando trocas de conhecimentos.
